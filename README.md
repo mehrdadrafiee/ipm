@@ -1,2 +1,2 @@
-# apm
+# ipm
 Intelligent Package Manager
